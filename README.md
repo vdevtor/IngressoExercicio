@@ -1,2 +1,2 @@
-# IngressoExercicio Criar funções que recebam valores do ingresso, setores, camarotes e preços com
+IngressoExercicio Criar funções que recebam valores dos ingressos, setores, camarotes e preços com
 e sem descontos
